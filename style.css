@@ -18,3 +18,13 @@ right: 150px;
 top: 150px;
 left: 150px;
 }
+#contact {
+ border-color: #6495ED;
+ background-color: #BCD2EE;
+ border-radius: 40px;
+ margin: auto;
+ text-align: center;
+ text-decoration: none;
+ color: yellow;
+ font-family: arial;
+}
