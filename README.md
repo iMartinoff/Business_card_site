@@ -1,1 +1,1 @@
-Gemsite ================= This is an example of a business card site for those of you who are interested in gems and jewelery!
+This is an example of complicated business card site, for those of you who are interested in jewelery, webdevelopment and enjoy reading about stuff.
